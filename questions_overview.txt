@@ -1,0 +1,732 @@
+================ week1 ================
+1. What does HCI stand for?
+   - Human Computer Integration
+ [CORRECT] Human Computer Interaction
+   - High Computer Intelligence
+   - Human Control Interface
+
+2. Which of the following is a key component of HCI?
+ [CORRECT] User
+   - Processor speed
+   - Internet cable
+   - Battery life
+
+3. Which is an example of good design?
+   - Confusing navigation
+ [CORRECT] Clear push/pull sign on door
+   - Too many buttons
+   - No feedback
+
+4. Digital transformation means:
+ [CORRECT] Converting physical processes into digital systems
+   - Increasing manual work
+   - Removing technology
+   - Using paper forms only
+
+5. Which of the following is NOT a usability factor?
+   - Efficiency
+   - Memorability
+ [CORRECT] Network speed
+   - Satisfaction
+
+6. Which principle ensures users understand possible actions?
+   - Feedback
+ [CORRECT] Affordance
+   - Consistency
+   - Visibility
+
+7. Feedback in interaction design means:
+   - Removing buttons
+ [CORRECT] System response after user action
+   - Increasing storage
+   - Deleting data
+
+8. A cluttered interface leads to:
+   - Better usability
+   - Faster performance
+ [CORRECT] User confusion
+   - Improved satisfaction
+
+9. Which of the following best describes interaction design (IxD)?
+   - Designing hardware components
+ [CORRECT] Designing interactive digital systems and experiences
+   - Managing databases
+   - Programming languages
+
+10. What is the main issue with too many features in an interface?
+   - Improves usability
+   - Reduces cost
+ [CORRECT] Overcomplicates user experience
+   - Improves performance
+
+================ week2 ================
+1. What does UX focus on in interaction design?
+   - Only coding
+ [CORRECT] User’s overall experience and satisfaction
+   - Network speed
+   - Hardware cost
+
+2. Which of the following is a type of design mentioned?
+   - Network design
+ [CORRECT] User interface design
+   - Cable design
+   - Processor design
+
+3. Inclusivity in design means:
+   - Designing only for experts
+ [CORRECT] Designing for diverse users
+   - Designing for children only
+   - Designing only for fast users
+
+4. Which principle ensures elements are easy to find?
+   - Feedback
+ [CORRECT] Visibility
+   - Consistency
+   - Flexibility
+
+5. Interaction design helps designers to:
+   - Only reduce cost
+ [CORRECT] Understand user needs and behaviors
+   - Increase hardware size
+   - Remove testing
+
+6. Which designer focuses on app structure and navigation?
+   - UI Designer
+ [CORRECT] Information Architect
+   - Motion Designer
+   - Brand Designer
+
+7. Which accessibility feature helps visually impaired users?
+   - Bright colors
+ [CORRECT] Screen readers
+   - Animations
+   - Large storage
+
+8. Which principle helps reduce errors and recover from them?
+   - Visibility
+ [CORRECT] Error prevention and recovery
+   - Feedback
+   - Flexibility
+
+9. Accessibility mainly focuses on:
+   - Cultural diversity
+ [CORRECT] Users with disabilities
+   - Only performance
+   - Only UI design
+
+10. What is a key challenge in interaction design teams?
+   - Lack of ideas
+ [CORRECT] Difficulty in communication across disciplines
+   - Too few designers
+   - No user data
+
+================ week3 ================
+1. Design Thinking is primarily:
+   - Hardware optimization
+ [CORRECT] User-centered problem-solving approach
+   - Coding framework
+   - Testing method
+
+2. Which stage focuses on understanding users?
+   - Ideate
+   - Define
+ [CORRECT] Empathize
+   - Prototype
+
+3. Testing phase is used to:
+   - Design UI
+ [CORRECT] Validate solutions with users
+   - Write code
+   - Deploy system
+
+4. Which is a stage in design process?
+   - Debugging
+ [CORRECT] Ideation
+   - Compilation
+   - Encryption
+
+5. In Double Diamond, “Develop” phase focuses on:
+   - Problem definition
+ [CORRECT] Generating solutions
+   - Testing only
+   - Deployment
+
+6. Low-fidelity prototypes are:
+   - Final products
+ [CORRECT] Simple sketches or mockups
+   - High-quality UI
+   - Deployed apps
+
+7. Activity-centered design focuses on:
+   - Users
+ [CORRECT] Tasks/activities
+   - Hardware
+   - Code
+
+8. System design includes:
+   - Only UI
+ [CORRECT] Architecture and components
+   - Only testing
+   - Only UX
+
+9. In user-centered design, empirical measurement means:
+   - Guessing user needs
+ [CORRECT] Observing and analyzing user behavior
+   - Writing code
+   - Skipping testing
+
+10. A key challenge in design thinking is:
+   - Too much user data
+ [CORRECT] Balancing creativity with constraints
+   - No iterations
+   - Lack of tools
+
+================ week4 ================
+1. User perspectives in HCI refer to:
+   - System architecture
+ [CORRECT] How users perceive and interact with technology
+   - Coding practices
+   - Hardware design
+
+2. Accessibility ensures:
+   - Faster code
+   - System security
+ [CORRECT] Usability for all users
+   - Less cost
+
+3. Novice users prefer:
+   - Complex shortcuts
+   - Minimal instructions
+ [CORRECT] Simple and guided interfaces
+   - Advanced tools only
+
+4. Empathy maps consist of how many quadrants?
+   - 2
+   - 3
+ [CORRECT] 4
+   - 5
+
+5. Which is NOT a key aspect of user perspectives?
+   - Usability
+   - Accessibility
+ [CORRECT] Compilation
+   - User needs
+
+6. Personas are mainly created during which phase?
+   - Test
+ [CORRECT] Define
+   - Deploy
+   - Evaluate
+
+7. Which method collects large-scale user data?
+   - Interviews
+ [CORRECT] Surveys
+   - Field study
+   - Observation
+
+8. Affinity mapping helps in:
+   - Coding
+ [CORRECT] Grouping related data
+   - UI design
+   - Deployment
+
+9. Which is a challenge in understanding user perspectives?
+   - Lack of tools
+ [CORRECT] Diverse user needs
+   - No data
+   - No users
+
+10. Data synthesis primarily helps in:
+   - Writing code
+ [CORRECT] Identifying patterns and insights
+   - Deployment
+   - UI rendering
+
+================ week5 ================
+1. In HCI, an interface is:
+ [CORRECT] A medium through which users and systems communicate
+   - Only hardware components
+   - A programming language
+   - A database system
+
+2. Interaction in HCI involves:
+   - Only system processing
+ [CORRECT] Communication between user and system
+   - Hardware installation
+   - Data storage
+
+3. Which interaction type is like talking to a system?
+   - Manipulating
+   - Exploring
+   - Responding
+ [CORRECT] Conversing
+
+4. Responding interaction is when:
+   - User starts interaction
+ [CORRECT] System initiates interaction
+   - No interaction happens
+   - Only typing occurs
+
+5. A key benefit of conversational interfaces is:
+   - Faster hardware
+ [CORRECT] Familiar interaction for users
+   - Less memory usage
+   - Better graphics
+
+6. Direct manipulation was introduced by:
+   - Donald Norman
+   - Jakob Nielsen
+ [CORRECT] Ben Shneiderman
+   - Alan Dix
+
+7. A disadvantage of direct manipulation is:
+   - Difficult for experts
+ [CORRECT] Can consume screen space
+   - No interaction
+   - No visual elements
+
+8. CLI is mainly suitable for:
+   - Beginners
+ [CORRECT] Expert users
+   - Children only
+   - Casual users
+
+9. Paradigms in HCI refer to:
+   - Coding techniques
+ [CORRECT] Shared approaches and practices
+   - UI layouts
+   - Data structures
+
+10. A major limitation of interface metaphors is:
+   - Improves usability
+ [CORRECT] Limits design creativity
+   - Reduces learning
+   - Enhances flexibility
+
+================ week6 ================
+1. Data in HCI is mainly used for:
+   - Hardware optimization
+ [CORRECT] Understanding user needs
+   - Coding interfaces
+   - Database storage
+
+2. Data requirement means:
+   - Storing data
+   - Collecting random data
+ [CORRECT] Identifying needed data for design
+   - Visualizing data
+
+3. Which is a quantitative method?
+   - Interviews
+   - Observations
+ [CORRECT] Surveys
+   - Focus groups
+
+4. Closed-ended questions are:
+   - Hard to analyze
+   - Open responses
+ [CORRECT] Numerical and structured
+   - Subjective
+
+5. A major issue in focus groups is:
+   - Lack of data
+ [CORRECT] Bias due to group dynamics
+   - Too much structure
+   - No interaction
+
+6. Semi-structured interviews:
+   - Have no questions
+ [CORRECT] Combine structured and open-ended questions
+   - Only use MCQs
+   - Are fully rigid
+
+7. Between-group design means:
+   - Same participants test all designs
+ [CORRECT] Different groups test different designs
+   - No comparison
+   - No participants
+
+8. Capturing data includes:
+   - Only text
+   - Only images
+ [CORRECT] Notes, audio, video
+   - Only numbers
+
+9. Mean is:
+   - Most frequent value
+   - Middle value
+ [CORRECT] Average of values
+   - Range
+
+10. A common pitfall in data analysis is:
+   - Using enough data
+ [CORRECT] Overgeneralization
+   - Clear visualization
+   - Correct interpretation
+
+================ week7 ================
+1. Prototyping is:
+   - Coding process
+   - Testing method
+ [CORRECT] Experimental process of building prototypes
+   - Deployment phase
+
+2. High-fidelity prototypes are:
+   - Sketches
+   - Rough ideas
+   - Early drafts
+ [CORRECT] Close to final product
+
+3. Storyboards are:
+   - Databases
+ [CORRECT] Series of sketches showing user flow
+   - Code snippets
+   - UI frameworks
+
+4. Fidelity refers to:
+   - Cost
+   - Code quality
+   - User satisfaction
+ [CORRECT] Level of detail
+
+5. Advantage of prototyping:
+ [CORRECT] Saves time and cost
+   - Eliminates testing
+   - Avoids iteration
+   - Reduces usability
+
+6. A drawback of mid-fi prototypes is:
+   - Too simple
+   - No interaction
+ [CORRECT] Users focus on minor details
+   - No feedback
+
+7. Wizard-of-Oz technique involves:
+   - AI system
+ [CORRECT] Human simulating system response
+   - Automation
+   - Coding
+
+8. Conceptual design focuses on:
+   - Colors and fonts
+   - Final UI
+ [CORRECT] Core ideas and structure
+   - Deployment
+
+9. Horizontal prototyping focuses on:
+   - Deep single feature
+ [CORRECT] Broad system overview
+   - Code optimization
+   - Testing only
+
+10. A key principle of prototyping is:
+   - Avoid iteration
+   - Build final product directly
+ [CORRECT] Iterative refinement
+   - No user feedback
+
+================ week8 ================
+1. Evaluation in HCI refers to:
+   - Coding
+ [CORRECT] Assessing usability and user experience
+   - Marketing
+   - Deployment
+
+2. One goal of evaluation is:
+   - Increase complexity
+   - Reduce cost
+ [CORRECT] Identify problems
+   - Remove users
+
+3. Quantitative data includes:
+   - User opinions
+   - Interviews
+   - Observations
+ [CORRECT] Task completion time
+
+4. Think-aloud protocol requires users to:
+   - Stay silent
+   - Write code
+ [CORRECT] Verbalize thoughts
+   - Fill forms only
+
+5. Formative evaluation is done:
+   - After deployment
+ [CORRECT] During design
+   - Only testing phase
+   - Maintenance stage
+
+6. Diagnostic evaluation helps to:
+   - Deploy system
+ [CORRECT] Identify specific usability issues
+   - Reduce cost
+   - Improve hardware
+
+7. In between-group experiments:
+   - Same users test all systems
+ [CORRECT] Different groups test different systems
+   - No users involved
+   - Only experts involved
+
+8. A key usability metric is:
+   - Revenue
+ [CORRECT] Efficiency
+   - Marketing reach
+   - Branding
+
+9. Heuristic evaluation is done by:
+   - End users
+   - Developers
+ [CORRECT] Experts using usability principles
+   - Managers
+
+10. Error rate refers to:
+   - System crashes only
+ [CORRECT] Number of user mistakes
+   - Network failure
+   - UI colors
+
+================ week9 ================
+1. IoT refers to:
+   - Only internet applications
+ [CORRECT] Network of connected smart objects
+   - Software development
+   - Database systems
+
+2. HCI in IoT mainly provides:
+   - Hardware
+ [CORRECT] Interface layer for interaction
+   - Sensors
+   - Power supply
+
+3. Touch interfaces are:
+   - Indirect
+   - Non-interactive
+ [CORRECT] Direct interaction methods
+   - Only for experts
+
+4. IoT devices collect:
+   - Only images
+   - Only text
+ [CORRECT] Contextual data
+   - Only audio
+
+5. Iterative design means:
+   - One-time design
+ [CORRECT] Continuous refinement
+   - Final product only
+   - No testing
+
+6. Cognitive overload occurs when:
+   - Too little data
+ [CORRECT] Too many options/data overwhelm users
+   - System is fast
+   - Interface is simple
+
+7. IoT systems rely heavily on:
+   - Manual work
+ [CORRECT] Connectivity
+   - Paper records
+   - Offline processing
+
+8. Wearable interfaces are:
+   - Stationary
+ [CORRECT] Always accessible and personalized
+   - Offline
+   - Non-interactive
+
+9. HaptiDrag enhances VR by:
+   - Visual effects only
+ [CORRECT] Variable friction feedback
+   - Audio output
+   - Network speed
+
+10. In MobiTangibles, magnetic field increases when:
+   - Distance increases
+ [CORRECT] Distance decreases
+   - Time increases
+   - Voltage decreases
+
+================ week10 ================
+1. Large Language Models (LLMs) are mainly used to:
+   - Store data
+ [CORRECT] Understand and generate text
+   - Build hardware
+   - Manage networks
+
+2. Behaviour refers to:
+   - System performance
+   - Data processing
+ [CORRECT] Actions or reactions of individuals
+   - Software debugging
+
+3. LLMs improve interfaces by:
+   - Replacing UI
+   - Increasing hardware
+ [CORRECT] Enabling natural language interaction
+   - Reducing usability
+
+4. Multimodal LLMs process:
+   - Only text
+   - Only images
+   - Only audio
+ [CORRECT] Multiple data types (text, image, etc.)
+
+5. Zero-shot prompting means:
+   - Training with no data
+   - Using examples before prediction
+ [CORRECT] Asking directly without examples
+   - Using reinforcement learning
+
+6. Few-shot prompting helps by:
+   - Increasing latency
+ [CORRECT] Providing examples to guide the model
+   - Reducing accuracy
+   - Removing context
+
+7. Adaptive learning systems use:
+   - Static content
+   - Fixed curriculum
+ [CORRECT] Personalized content based on user performance
+   - Random teaching
+
+8. LLMs contribute to accessibility by:
+   - Reducing data
+ [CORRECT] Providing voice and text alternatives
+   - Increasing complexity
+   - Removing UI
+
+9. A key challenge in behaviour prediction is:
+   - Too little data
+   - Hardware cost
+ [CORRECT] Deciding what, when, and to whom to show content
+   - Lack of UI
+
+10. Ethical concern in LLM + HCI systems:
+   - Speed
+   - UI design
+ [CORRECT] Privacy and manipulation risks
+   - Storage
+
+================ week11 ================
+1. Privacy in HCI refers to:
+   - Protecting system hardware
+ [CORRECT] Controlling personal data by users
+   - Improving UI speed
+   - Network optimization
+
+2. Security in HCI ensures:
+   - Better graphics
+   - Faster systems
+ [CORRECT] Protection from unauthorized access
+   - More storage
+
+3. One major harm of LLMs is:
+   - Faster execution
+   - Reduced storage
+ [CORRECT] Bias and discrimination
+   - Improved UX
+
+4. Two-factor authentication (2FA) adds:
+   - Storage
+   - UI complexity
+ [CORRECT] Extra security layer
+   - Speed
+
+5. A major deepfake risk is:
+   - Faster AI
+   - Better UX
+ [CORRECT] Misinformation spread
+   - Reduced cost
+
+6. GDPR impacts HCI by:
+   - Increasing UI complexity
+ [CORRECT] Enforcing transparency and consent
+   - Removing security
+   - Reducing usability
+
+7. Dark patterns are:
+   - Good UI design
+   - Secure UI
+ [CORRECT] Interfaces that trick users
+   - Encryption methods
+
+8. SHAP is used for:
+   - Encryption
+ [CORRECT] Model explanation
+   - UI design
+   - Data storage
+
+9. Zero Trust security model means:
+   - Trust all users
+   - Never verify users
+ [CORRECT] Always verify identity
+   - No authentication
+
+10. A major usability issue in security systems is:
+   - Too simple UI
+   - Lack of data
+   - High cost
+ [CORRECT] Complexity for users
+
+================ week12 ================
+1. A conversational system is defined as:
+   - A database system
+ [CORRECT] A system that interacts using natural language
+   - A networking protocol
+   - A compiler
+
+2. Communication primarily involves:
+   - Data storage
+ [CORRECT] Exchange of information
+   - Coding
+   - Hardware
+
+3. NLU in conversational AI refers to:
+   - Generating images
+ [CORRECT] Understanding user intent
+   - Storing data
+   - Encrypting data
+
+4. Dialogue management handles:
+   - Storage
+   - UI design
+ [CORRECT] Conversation flow
+   - Networking
+
+5. Noise in communication refers to:
+   - Clear message
+ [CORRECT] Interference
+   - Feedback
+   - Encoding
+
+6. Multimodal systems use:
+   - Single input
+   - Only text
+ [CORRECT] Multiple data types
+   - Only audio
+
+7. Conversational AI improves UX by:
+   - Increasing delay
+ [CORRECT] Making interaction natural
+   - Reducing usability
+   - Removing UI
+
+8. In autism AI systems, multimodal analysis includes:
+   - Only text
+   - Only video
+ [CORRECT] Speech, facial, and behavioural data
+   - Only hardware
+
+9. A major benefit of conversational AI is:
+   - Increased complexity
+ [CORRECT] 24/7 availability
+   - Higher cost
+   - Reduced interaction
+
+10. A limitation of conversational AI systems is:
+   - No interaction
+   - Perfect understanding
+ [CORRECT] Bias and incorrect responses
+   - No computation
+
